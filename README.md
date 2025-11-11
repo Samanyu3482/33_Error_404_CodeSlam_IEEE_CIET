@@ -33,12 +33,13 @@ You can add screenshots of your website below to visually showcase the sections 
 ![Homepage Screenshot](project/home.png)
 
 ### Our Offerings Section  
-*(Add your offerings section image here)*  
+
 ![Offerings Screenshot](project/offerings.png)
 
 ### Unmatched Quality Section  
+
 *(Add your quality section image here)*  
-![Quality Screenshot](path/to/your/image3.png)
+![Quality Screenshot](project/q3.png)
 
 ### Product Cards or Menu Section  
 *(Add your product cards image here)*  
