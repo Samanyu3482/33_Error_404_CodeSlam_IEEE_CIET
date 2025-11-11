@@ -38,16 +38,10 @@ You can add screenshots of your website below to visually showcase the sections 
 
 ### Unmatched Quality Section  
 
-*(Add your quality section image here)*  
+ 
 ![Quality Screenshot](project/q3.png)
 
-### Product Cards or Menu Section  
-*(Add your product cards image here)*  
-![Products Screenshot](path/to/your/image4.png)
 
-### Responsive View (Optional)  
-*(Show how it looks on mobile)*  
-![Responsive Screenshot](path/to/your/image5.png)
 
 ---
 
