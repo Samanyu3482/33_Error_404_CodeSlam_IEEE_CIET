@@ -29,12 +29,12 @@ This project recreates the elegant and minimal Starbucks website experience, fea
 You can add screenshots of your website below to visually showcase the sections of your Starbucks clone.
 
 ### Homepage  
-*(Add your hero section image here)*  
+
 ![Homepage Screenshot](project/home.png)
 
 ### Our Offerings Section  
 *(Add your offerings section image here)*  
-![Offerings Screenshot](path/to/your/image2.png)
+![Offerings Screenshot](project/offerings.png)
 
 ### Unmatched Quality Section  
 *(Add your quality section image here)*  
