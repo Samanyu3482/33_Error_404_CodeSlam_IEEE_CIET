@@ -30,7 +30,7 @@ You can add screenshots of your website below to visually showcase the sections 
 
 ### Homepage  
 *(Add your hero section image here)*  
-![Homepage Screenshot](project/qwert.png)
+![Homepage Screenshot](project/home.png)
 
 ### Our Offerings Section  
 *(Add your offerings section image here)*  
